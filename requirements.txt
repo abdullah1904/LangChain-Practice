@@ -24,3 +24,9 @@ pydantic
 pypdf
 beautifulsoup4
 grandalf
+wikipedia
+
+chromadb
+faiss-cpu
+
+youtube-transcript-api
