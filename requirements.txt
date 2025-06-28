@@ -30,3 +30,4 @@ chromadb
 faiss-cpu
 
 youtube-transcript-api
+duckduckgo-search
